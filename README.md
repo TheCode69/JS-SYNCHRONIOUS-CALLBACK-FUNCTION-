@@ -6,7 +6,7 @@ Inside tall, height is set to 55 and "YEAH" is assigned to the variable crazy. T
 The callback(); line inside tall invokes the grow function, which reassigns age to 20 and logs 20 to the console.
 After the callback, "YEAH" is logged to the console.
 Finally, "gaddemit" is logged to the console.
-
+                                   
                                          
                                  
                           
